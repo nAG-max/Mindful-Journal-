@@ -1,0 +1,5 @@
+{
+  "name": "Daily Journal",
+  "description": "A polished, secure daily journal app built with React and Supabase.",
+  "requestFramePermissions": []
+}
